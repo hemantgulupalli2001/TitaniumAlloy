@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
          <Intro/>
-         <div className='description'>Current webpage details with various characterization results of Beta Titanium alloy that are optimized by the author.
+         <div className='description'>Current webpage deals with various characterization results of Beta Titanium alloy that are optimized by the author.
                                     These all put up to together informs us about the transition region and the morphology of the alloy.
           </div>
          <div><SEM/></div>
