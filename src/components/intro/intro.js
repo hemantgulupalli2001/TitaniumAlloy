@@ -16,8 +16,7 @@ function intro(){
         <div className='introDesc'>
             <h3>Hemant Gullu</h3>
             <div className='fitcon'>Welcome to my characterization page</div>
-            <div className='fitcon'>Current webpage details with various characterization results of Beta Titanium alloy that are optimized by the author.
-                                    These all put up to together informs us about the transition region and the morphology of the alloy.
+            <div className='fitcon'>Currently working as an Associate Researcher in the Department of Materials Engineering at the Indian Institute of Science, Bangalore on Graphene-based Nanocomposites, As Man of Curiosity I am fascinated with research and development taking place in the field of Material Science and Engineering.
                                     </div>
             {/* <div className='fitcon'>alsjnvksnvkjndv;kjasndv;kjanvkjnkvnadkjfvndjnvkdjfnvkjan</div>
             <div className='fitcon'>alsjnvksnvkjndv;kjasndv;kjanvkjnkvnadkjfvndjnvkdjfnvkjan</div>
