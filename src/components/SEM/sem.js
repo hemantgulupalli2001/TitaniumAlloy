@@ -104,7 +104,7 @@ function TDSimg() {
       </Carousel.Item>
 
 
-// new ones
+
 
           <Carousel.Item className='marleft'>
         <img
