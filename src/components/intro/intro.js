@@ -14,9 +14,9 @@ function intro(){
         </div>
         {/* About you */}
         <div className='introDesc'>
-            <h3>Hemant Gullu</h3>
+            <h3>Hemant Gulupalli</h3>
             <div className='fitcon'>Welcome to my characterization page</div>
-            <div className='fitcon'>Currently working as an Associate Researcher in the Department of Materials Engineering at the Indian Institute of Science, Bangalore on Graphene-based Nanocomposites, As Man of Curiosity I am fascinated with research and development taking place in the field of Material Science and Engineering.
+            <div className='fitcon'>As a Man of Curiosity I am fascinated with research and development taking place in the field of Material Science and Engineering.
                                     </div>
             {/* <div className='fitcon'>alsjnvksnvkjndv;kjasndv;kjanvkjnkvnadkjfvndjnvkdjfnvkjan</div>
             <div className='fitcon'>alsjnvksnvkjndv;kjasndv;kjanvkjnkvnadkjfvndjnvkdjfnvkjan</div>
