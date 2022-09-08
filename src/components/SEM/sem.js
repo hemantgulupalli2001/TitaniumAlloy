@@ -104,6 +104,72 @@ function TDSimg() {
       </Carousel.Item>
 
 
+// new ones
+
+          <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//           https://drive.google.com/file/d/1V6abw66cSktOGuKATW-ljYXblVj-uBl7/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1V6abw66cSktOGuKATW-ljYXblVj-uBl7"
+          alt="Fifth slide"
+        />
+      </Carousel.Item>
+
+      <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//           https://drive.google.com/file/d/1qGPuWksc6r0OUsqmHW8cbH8wLtEDVtDz/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1qGPuWksc6r0OUsqmHW8cbH8wLtEDVtDz"
+          alt="Sixth slide"
+        />
+      </Carousel.Item>
+
+      <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//           https://drive.google.com/file/d/1ICE9m7IGb6K3zmFaz3B8q6hz8DtRsvQ6/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1ICE9m7IGb6K3zmFaz3B8q6hz8DtRsvQ6"
+          alt="Seventh slide"
+        />
+      </Carousel.Item>
+
+      <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//          https://drive.google.com/file/d/1qYF_VQmOlMCYvZbNoVw71WQ3VL0tQiyn/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1qYF_VQmOlMCYvZbNoVw71WQ3VL0tQiyn"
+          alt="Eighth slide"
+        />
+      </Carousel.Item>
+
+      <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//          https://drive.google.com/file/d/1xV5B7cTUddK7MdH_nOXHZJReuZObpTyL/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1xV5B7cTUddK7MdH_nOXHZJReuZObpTyL"
+          alt="Ninth slide"
+        />
+      </Carousel.Item>
+
+      <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//           https://drive.google.com/file/d/1YcN0giDvt3uUF1w-Wr4gijmAPo_D2vIt/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1YcN0giDvt3uUF1w-Wr4gijmAPo_D2vIt"
+          alt="Tenth slide"
+        />
+      </Carousel.Item>
+
+
+      <Carousel.Item className='marleft'>
+        <img
+          className="d-block w-75 sizefit"
+//   https://drive.google.com/file/d/1xTQ06vINi2WBI8l75IVVggaeTg-yr9xA/view?usp=sharing
+          src="http://drive.google.com/uc?export=view&id=1xTQ06vINi2WBI8l75IVVggaeTg-yr9xA"
+          alt="Tenth slide"
+        />
+      </Carousel.Item>
+
 
 
 
