@@ -1,0 +1,25 @@
+.marleft{
+    padding-left:10%;
+    padding-right:10%;
+   
+}
+.sizefit{
+    height: 80%;
+    width: 70%;
+    margin: auto;
+    border: 1px solid black; 
+}
+.sizefitCARA{
+    height: 80%;
+    width: 70%;
+    margin: auto;   
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+.carousel-control-prev-icon{
+    background-color: black;
+}
+.outer-border{
+    margin-bottom: 3%;
+}

@@ -1,0 +1,59 @@
+@media screen and (max-width: 800px) {
+    .introcss{
+        margin: 5% 20%;
+        padding: 2%;
+
+        height: fit-content;
+        width: fit-content;
+        display: flex;
+        flex-direction:column;
+        /* border: 1px solid black; */
+        margin-bottom: 3%;
+    }
+  }
+
+  .introcss{
+    margin: 5% 20%;
+    padding: 2%;
+    height: fit-content;
+    width: fit-content;
+    display: grid;
+    grid-template-columns: 25% 65%;
+    column-gap: 2%;
+    margin-bottom: 3%;
+}
+
+
+.introDesc{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+}
+
+.introDesc h3{
+    text-align: left;
+    padding: 3px;
+    margin: 0%;
+    margin-bottom: 2%;
+}
+
+.introImg{
+    /* border: 1px solid black; */
+    width: fit-content;
+    height: fit-content;
+    margin-left: 20%;
+    border-radius: 50%;
+}
+.roundImg{
+    border-radius: 50%;
+    width: 80%;
+    height: 50%;
+    object-fit: cover;
+}
+
+.fitcon{
+    width: fit-content;
+    text-align: left;
+}
